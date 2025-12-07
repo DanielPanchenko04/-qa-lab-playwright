@@ -11,5 +11,21 @@
   "devDependencies": {
     "@playwright/test": "^1.57.0",
     "@types/node": "^24.10.1"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "playwright": "^1.57.0",
+    "playwright-core": "^1.57.0",
+    "undici-types": "^7.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielPanchenko04/-qa-lab-playwright.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DanielPanchenko04/-qa-lab-playwright/issues"
+  },
+  "homepage": "https://github.com/DanielPanchenko04/-qa-lab-playwright#readme"
 }
